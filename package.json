@@ -1,0 +1,16 @@
+{
+  "name": "chat-core",
+  "version": "0.1.0",
+  "description": "Lightweight realtime chat core framework with pluggable auth and persistence.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node example-server.js"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0",
+    "ws": "^8.0.0"
+  },
+  "keywords": ["chat","websocket","realtime","framework"],
+  "license": "MIT"
+}
