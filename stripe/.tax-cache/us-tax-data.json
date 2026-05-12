@@ -1,0 +1,1405 @@
+{
+  "timestamp": 1777282856407,
+  "payload": [
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.2
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.2
+      }
+    },
+    {
+      "country": "Australia",
+      "country_code": "AU",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "GST",
+        "rate": 0.1
+      },
+      "average_rate": {
+        "label": "GST",
+        "rate": 0.1
+      }
+    },
+    {
+      "country": "Belgium",
+      "country_code": "BE",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.21
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.21
+      }
+    },
+    {
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.2
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.2
+      }
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "Newfoundland and Labrador",
+      "region_code": "NL",
+      "minimum_rate": {
+        "label": "GST",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "HST",
+        "rate": 0.15
+      }
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "Saskatchewan",
+      "region_code": "SK",
+      "minimum_rate": {
+        "label": "GST",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "GST/PST",
+        "rate": 0.11
+      }
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "Alberta",
+      "region_code": "AB",
+      "minimum_rate": {
+        "label": "GST",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "GST",
+        "rate": 0.05
+      }
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "Northwest Territories",
+      "region_code": "NT",
+      "minimum_rate": {
+        "label": "GST",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "GST",
+        "rate": 0.05
+      }
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "Nunavut",
+      "region_code": "NU",
+      "minimum_rate": {
+        "label": "GST",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "GST",
+        "rate": 0.05
+      }
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "British Columbia",
+      "region_code": "BC",
+      "minimum_rate": {
+        "label": "GST",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "GST/PST",
+        "rate": 0.12
+      }
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "Yukon",
+      "region_code": "YT",
+      "minimum_rate": {
+        "label": "GST",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "GST",
+        "rate": 0.05
+      }
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "Prince Edward Island",
+      "region_code": "PE",
+      "minimum_rate": {
+        "label": "GST",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "HST",
+        "rate": 0.15
+      }
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "Nova Scotia",
+      "region_code": "NS",
+      "minimum_rate": {
+        "label": "GST",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "HST",
+        "rate": 0.14
+      }
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "Quebec",
+      "region_code": "QC",
+      "minimum_rate": {
+        "label": "GST",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "GST/QST",
+        "rate": 0.1498
+      }
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "Ontario",
+      "region_code": "ON",
+      "minimum_rate": {
+        "label": "GST",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "HST",
+        "rate": 0.13
+      }
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "Manitoba",
+      "region_code": "MB",
+      "minimum_rate": {
+        "label": "GST",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "GST/PST",
+        "rate": 0.12
+      }
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "region": "New Brunswick",
+      "region_code": "NB",
+      "minimum_rate": {
+        "label": "GST",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "HST",
+        "rate": 0.15
+      }
+    },
+    {
+      "country": "Cyprus",
+      "country_code": "CY",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.19
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.19
+      }
+    },
+    {
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.21
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.21
+      }
+    },
+    {
+      "country": "Germany",
+      "country_code": "DE",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.19
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.19
+      }
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DK",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.25
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.25
+      }
+    },
+    {
+      "country": "Estonia",
+      "country_code": "EE",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.24
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.24
+      }
+    },
+    {
+      "country": "Greece",
+      "country_code": "EL",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.24
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.24
+      }
+    },
+    {
+      "country": "Spain",
+      "country_code": "ES",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.21
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.21
+      }
+    },
+    {
+      "country": "Finland",
+      "country_code": "FI",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.255
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.255
+      }
+    },
+    {
+      "country": "France",
+      "country_code": "FR",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.2
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.2
+      }
+    },
+    {
+      "country": "Croatia",
+      "country_code": "HR",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.25
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.25
+      }
+    },
+    {
+      "country": "Hungary",
+      "country_code": "HU",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.27
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.27
+      }
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IE",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.23
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.23
+      }
+    },
+    {
+      "country": "Italy",
+      "country_code": "IT",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.22
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.22
+      }
+    },
+    {
+      "country": "Lithuania",
+      "country_code": "LT",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.21
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.21
+      }
+    },
+    {
+      "country": "Luxembourg",
+      "country_code": "LU",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.17
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.17
+      }
+    },
+    {
+      "country": "Latvia",
+      "country_code": "LV",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.21
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.21
+      }
+    },
+    {
+      "country": "Malta",
+      "country_code": "MT",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.18
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.18
+      }
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.21
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.21
+      }
+    },
+    {
+      "country": "Poland",
+      "country_code": "PL",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.23
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.23
+      }
+    },
+    {
+      "country": "Portugal",
+      "country_code": "PT",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.23
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.23
+      }
+    },
+    {
+      "country": "Romania",
+      "country_code": "RO",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.21
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.21
+      }
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.25
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.25
+      }
+    },
+    {
+      "country": "Slovenia",
+      "country_code": "SI",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.22
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.22
+      }
+    },
+    {
+      "country": "Slovakia",
+      "country_code": "SK",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.23
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.23
+      }
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "UK",
+      "region": null,
+      "region_code": null,
+      "minimum_rate": {
+        "label": "VAT",
+        "rate": 0.2
+      },
+      "average_rate": {
+        "label": "VAT",
+        "rate": 0.2
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Armed Forces Americas",
+      "region_code": "AA",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Armed Forces Europe",
+      "region_code": "AE",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Alaska",
+      "region_code": "AK",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0151
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Alabama",
+      "region_code": "AL",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.04
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0823
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Armed Forces Pacific",
+      "region_code": "AP",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Arkansas",
+      "region_code": "AR",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.065
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0863
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "American Samoa",
+      "region_code": "AS",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Arizona",
+      "region_code": "AZ",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.056
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0687
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "California",
+      "region_code": "CA",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.0725
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0829
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Colorado",
+      "region_code": "CO",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.029
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0602
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Georgia",
+      "region_code": "GA",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.06
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0773
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Connecticut",
+      "region_code": "CT",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.0635
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0635
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Guam",
+      "region_code": "GU",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.05
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Hawaii",
+      "region_code": "HI",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.04
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.044
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Iowa",
+      "region_code": "IA",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.06
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0698
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Idaho",
+      "region_code": "ID",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.06
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0606
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "District of Columbia",
+      "region_code": "DC",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.06
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.06
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Delaware",
+      "region_code": "DE",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Florida",
+      "region_code": "FL",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.06
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0698
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Illinois",
+      "region_code": "IL",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.0625
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0765
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Indiana",
+      "region_code": "IN",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.07
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.07
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Kansas",
+      "region_code": "KS",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.065
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0773
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Kentucky",
+      "region_code": "KY",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.06
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.06
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Louisiana",
+      "region_code": "LA",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.1006
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Massachusetts",
+      "region_code": "MA",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.0625
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0625
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Maryland",
+      "region_code": "MD",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.06
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.06
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Maine",
+      "region_code": "ME",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.055
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.055
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Michigan",
+      "region_code": "MI",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.06
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.06
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Minnesota",
+      "region_code": "MN",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.0688
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0749
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Missouri",
+      "region_code": "MO",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.0473
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0756
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New Mexico",
+      "region_code": "NM",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.0525
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0677
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "North Dakota",
+      "region_code": "ND",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0577
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Nevada",
+      "region_code": "NV",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.0685
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0734
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "North Carolina",
+      "region_code": "NC",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.0675
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0689
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New Hampshire",
+      "region_code": "NH",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Mississippi",
+      "region_code": "MS",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.07
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0742
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Nebraska",
+      "region_code": "NE",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.055
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0606
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Montana",
+      "region_code": "MT",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New Jersey",
+      "region_code": "NJ",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.0663
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0663
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "New York",
+      "region_code": "NY",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.07
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0821
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Ohio",
+      "region_code": "OH",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.065
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0715
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Oklahoma",
+      "region_code": "OK",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.045
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0787
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Oregon",
+      "region_code": "OR",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Pennsylvania",
+      "region_code": "PA",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.06
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.065
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Puerto Rico",
+      "region_code": "PR",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.115
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.115
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Rhode Island",
+      "region_code": "RI",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.07
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.07
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "South Carolina",
+      "region_code": "SC",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.06
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0789
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "South Dakota",
+      "region_code": "SD",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.042
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0565
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Tennessee",
+      "region_code": "TN",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.09
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0959
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Texas",
+      "region_code": "TX",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.0625
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0762
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Utah",
+      "region_code": "UT",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.0635
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0705
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Virginia",
+      "region_code": "VA",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.053
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0556
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Virgin Islands",
+      "region_code": "VI",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Vermont",
+      "region_code": "VT",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.06
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0617
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Washington",
+      "region_code": "WA",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.075
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0868
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Wisconsin",
+      "region_code": "WI",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.05
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0552
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "West Virginia",
+      "region_code": "WV",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.06
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.0621
+      }
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "region": "Wyoming",
+      "region_code": "WY",
+      "minimum_rate": {
+        "label": "State Tax",
+        "rate": 0.04
+      },
+      "average_rate": {
+        "label": "Tax",
+        "rate": 0.054
+      }
+    }
+  ]
+}

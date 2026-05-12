@@ -1,0 +1,1223 @@
+{
+  "timestamp": 1777282856409,
+  "payload": [
+    {
+      "country": "US",
+      "state": "AA",
+      "state_name": "Armed Forces Americas",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Armed Forces Americas",
+          "combined_rate": "0.00%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "0.00%",
+      "combined_rate_max": "0.00%",
+      "combined_rate_avg": "0.00%"
+    },
+    {
+      "country": "US",
+      "state": "AE",
+      "state_name": "Armed Forces Europe",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Armed Forces Europe",
+          "combined_rate": "0.00%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "0.00%",
+      "combined_rate_max": "0.00%",
+      "combined_rate_avg": "0.00%"
+    },
+    {
+      "country": "US",
+      "state": "AK",
+      "state_name": "Alaska",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Alaska",
+          "combined_rate": "1.51%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "1.51%",
+      "combined_rate_max": "1.51%",
+      "combined_rate_avg": "1.51%"
+    },
+    {
+      "country": "US",
+      "state": "AL",
+      "state_name": "Alabama",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Alabama",
+          "combined_rate": "8.23%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "8.23%",
+      "combined_rate_max": "8.23%",
+      "combined_rate_avg": "8.23%"
+    },
+    {
+      "country": "US",
+      "state": "AP",
+      "state_name": "Armed Forces Pacific",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Armed Forces Pacific",
+          "combined_rate": "0.00%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "0.00%",
+      "combined_rate_max": "0.00%",
+      "combined_rate_avg": "0.00%"
+    },
+    {
+      "country": "US",
+      "state": "AR",
+      "state_name": "Arkansas",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Arkansas",
+          "combined_rate": "8.63%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "8.63%",
+      "combined_rate_max": "8.63%",
+      "combined_rate_avg": "8.63%"
+    },
+    {
+      "country": "US",
+      "state": "AS",
+      "state_name": "American Samoa",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "American Samoa",
+          "combined_rate": "0.00%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "0.00%",
+      "combined_rate_max": "0.00%",
+      "combined_rate_avg": "0.00%"
+    },
+    {
+      "country": "US",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Arizona",
+          "combined_rate": "6.87%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.87%",
+      "combined_rate_max": "6.87%",
+      "combined_rate_avg": "6.87%"
+    },
+    {
+      "country": "US",
+      "state": "CA",
+      "state_name": "California",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "California",
+          "combined_rate": "8.29%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "8.29%",
+      "combined_rate_max": "8.29%",
+      "combined_rate_avg": "8.29%"
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "state_name": "Colorado",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Colorado",
+          "combined_rate": "6.02%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.02%",
+      "combined_rate_max": "6.02%",
+      "combined_rate_avg": "6.02%"
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "state_name": "Georgia",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Georgia",
+          "combined_rate": "7.73%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "7.73%",
+      "combined_rate_max": "7.73%",
+      "combined_rate_avg": "7.73%"
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "state_name": "Connecticut",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Connecticut",
+          "combined_rate": "6.35%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.35%",
+      "combined_rate_max": "6.35%",
+      "combined_rate_avg": "6.35%"
+    },
+    {
+      "country": "US",
+      "state": "GU",
+      "state_name": "Guam",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Guam",
+          "combined_rate": "5.00%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "5.00%",
+      "combined_rate_max": "5.00%",
+      "combined_rate_avg": "5.00%"
+    },
+    {
+      "country": "US",
+      "state": "HI",
+      "state_name": "Hawaii",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Hawaii",
+          "combined_rate": "4.40%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "4.40%",
+      "combined_rate_max": "4.40%",
+      "combined_rate_avg": "4.40%"
+    },
+    {
+      "country": "US",
+      "state": "IA",
+      "state_name": "Iowa",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Iowa",
+          "combined_rate": "6.98%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.98%",
+      "combined_rate_max": "6.98%",
+      "combined_rate_avg": "6.98%"
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "state_name": "Idaho",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Idaho",
+          "combined_rate": "6.06%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.06%",
+      "combined_rate_max": "6.06%",
+      "combined_rate_avg": "6.06%"
+    },
+    {
+      "country": "US",
+      "state": "DC",
+      "state_name": "District of Columbia",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "District of Columbia",
+          "combined_rate": "6.00%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.00%",
+      "combined_rate_max": "6.00%",
+      "combined_rate_avg": "6.00%"
+    },
+    {
+      "country": "US",
+      "state": "DE",
+      "state_name": "Delaware",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Delaware",
+          "combined_rate": "0.00%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "0.00%",
+      "combined_rate_max": "0.00%",
+      "combined_rate_avg": "0.00%"
+    },
+    {
+      "country": "US",
+      "state": "FL",
+      "state_name": "Florida",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Florida",
+          "combined_rate": "6.98%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.98%",
+      "combined_rate_max": "6.98%",
+      "combined_rate_avg": "6.98%"
+    },
+    {
+      "country": "US",
+      "state": "IL",
+      "state_name": "Illinois",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Illinois",
+          "combined_rate": "7.65%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "7.65%",
+      "combined_rate_max": "7.65%",
+      "combined_rate_avg": "7.65%"
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "state_name": "Indiana",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Indiana",
+          "combined_rate": "7.00%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "7.00%",
+      "combined_rate_max": "7.00%",
+      "combined_rate_avg": "7.00%"
+    },
+    {
+      "country": "US",
+      "state": "KS",
+      "state_name": "Kansas",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Kansas",
+          "combined_rate": "7.73%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "7.73%",
+      "combined_rate_max": "7.73%",
+      "combined_rate_avg": "7.73%"
+    },
+    {
+      "country": "US",
+      "state": "KY",
+      "state_name": "Kentucky",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Kentucky",
+          "combined_rate": "6.00%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.00%",
+      "combined_rate_max": "6.00%",
+      "combined_rate_avg": "6.00%"
+    },
+    {
+      "country": "US",
+      "state": "LA",
+      "state_name": "Louisiana",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Louisiana",
+          "combined_rate": "10.06%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "10.06%",
+      "combined_rate_max": "10.06%",
+      "combined_rate_avg": "10.06%"
+    },
+    {
+      "country": "US",
+      "state": "MA",
+      "state_name": "Massachusetts",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Massachusetts",
+          "combined_rate": "6.25%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.25%",
+      "combined_rate_max": "6.25%",
+      "combined_rate_avg": "6.25%"
+    },
+    {
+      "country": "US",
+      "state": "MD",
+      "state_name": "Maryland",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Maryland",
+          "combined_rate": "6.00%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.00%",
+      "combined_rate_max": "6.00%",
+      "combined_rate_avg": "6.00%"
+    },
+    {
+      "country": "US",
+      "state": "ME",
+      "state_name": "Maine",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Maine",
+          "combined_rate": "5.50%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "5.50%",
+      "combined_rate_max": "5.50%",
+      "combined_rate_avg": "5.50%"
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "state_name": "Michigan",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Michigan",
+          "combined_rate": "6.00%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.00%",
+      "combined_rate_max": "6.00%",
+      "combined_rate_avg": "6.00%"
+    },
+    {
+      "country": "US",
+      "state": "MN",
+      "state_name": "Minnesota",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Minnesota",
+          "combined_rate": "7.49%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "7.49%",
+      "combined_rate_max": "7.49%",
+      "combined_rate_avg": "7.49%"
+    },
+    {
+      "country": "US",
+      "state": "MO",
+      "state_name": "Missouri",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Missouri",
+          "combined_rate": "7.56%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "7.56%",
+      "combined_rate_max": "7.56%",
+      "combined_rate_avg": "7.56%"
+    },
+    {
+      "country": "US",
+      "state": "NM",
+      "state_name": "New Mexico",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "New Mexico",
+          "combined_rate": "6.77%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.77%",
+      "combined_rate_max": "6.77%",
+      "combined_rate_avg": "6.77%"
+    },
+    {
+      "country": "US",
+      "state": "ND",
+      "state_name": "North Dakota",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "North Dakota",
+          "combined_rate": "5.77%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "5.77%",
+      "combined_rate_max": "5.77%",
+      "combined_rate_avg": "5.77%"
+    },
+    {
+      "country": "US",
+      "state": "NV",
+      "state_name": "Nevada",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Nevada",
+          "combined_rate": "7.34%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "7.34%",
+      "combined_rate_max": "7.34%",
+      "combined_rate_avg": "7.34%"
+    },
+    {
+      "country": "US",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "North Carolina",
+          "combined_rate": "6.89%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.89%",
+      "combined_rate_max": "6.89%",
+      "combined_rate_avg": "6.89%"
+    },
+    {
+      "country": "US",
+      "state": "NH",
+      "state_name": "New Hampshire",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "New Hampshire",
+          "combined_rate": "0.00%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "0.00%",
+      "combined_rate_max": "0.00%",
+      "combined_rate_avg": "0.00%"
+    },
+    {
+      "country": "US",
+      "state": "MS",
+      "state_name": "Mississippi",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Mississippi",
+          "combined_rate": "7.42%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "7.42%",
+      "combined_rate_max": "7.42%",
+      "combined_rate_avg": "7.42%"
+    },
+    {
+      "country": "US",
+      "state": "NE",
+      "state_name": "Nebraska",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Nebraska",
+          "combined_rate": "6.06%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.06%",
+      "combined_rate_max": "6.06%",
+      "combined_rate_avg": "6.06%"
+    },
+    {
+      "country": "US",
+      "state": "MT",
+      "state_name": "Montana",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Montana",
+          "combined_rate": "0.00%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "0.00%",
+      "combined_rate_max": "0.00%",
+      "combined_rate_avg": "0.00%"
+    },
+    {
+      "country": "US",
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "New Jersey",
+          "combined_rate": "6.63%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.63%",
+      "combined_rate_max": "6.63%",
+      "combined_rate_avg": "6.63%"
+    },
+    {
+      "country": "US",
+      "state": "NY",
+      "state_name": "New York",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "New York",
+          "combined_rate": "8.21%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "8.21%",
+      "combined_rate_max": "8.21%",
+      "combined_rate_avg": "8.21%"
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "state_name": "Ohio",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Ohio",
+          "combined_rate": "7.15%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "7.15%",
+      "combined_rate_max": "7.15%",
+      "combined_rate_avg": "7.15%"
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "state_name": "Oklahoma",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Oklahoma",
+          "combined_rate": "7.87%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "7.87%",
+      "combined_rate_max": "7.87%",
+      "combined_rate_avg": "7.87%"
+    },
+    {
+      "country": "US",
+      "state": "OR",
+      "state_name": "Oregon",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Oregon",
+          "combined_rate": "0.00%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "0.00%",
+      "combined_rate_max": "0.00%",
+      "combined_rate_avg": "0.00%"
+    },
+    {
+      "country": "US",
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Pennsylvania",
+          "combined_rate": "6.50%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.50%",
+      "combined_rate_max": "6.50%",
+      "combined_rate_avg": "6.50%"
+    },
+    {
+      "country": "US",
+      "state": "PR",
+      "state_name": "Puerto Rico",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Puerto Rico",
+          "combined_rate": "11.50%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "11.50%",
+      "combined_rate_max": "11.50%",
+      "combined_rate_avg": "11.50%"
+    },
+    {
+      "country": "US",
+      "state": "RI",
+      "state_name": "Rhode Island",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Rhode Island",
+          "combined_rate": "7.00%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "7.00%",
+      "combined_rate_max": "7.00%",
+      "combined_rate_avg": "7.00%"
+    },
+    {
+      "country": "US",
+      "state": "SC",
+      "state_name": "South Carolina",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "South Carolina",
+          "combined_rate": "7.89%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "7.89%",
+      "combined_rate_max": "7.89%",
+      "combined_rate_avg": "7.89%"
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "state_name": "South Dakota",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "South Dakota",
+          "combined_rate": "5.65%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "5.65%",
+      "combined_rate_max": "5.65%",
+      "combined_rate_avg": "5.65%"
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "state_name": "Tennessee",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Tennessee",
+          "combined_rate": "9.59%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "9.59%",
+      "combined_rate_max": "9.59%",
+      "combined_rate_avg": "9.59%"
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "state_name": "Texas",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Texas",
+          "combined_rate": "7.62%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "7.62%",
+      "combined_rate_max": "7.62%",
+      "combined_rate_avg": "7.62%"
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "state_name": "Utah",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Utah",
+          "combined_rate": "7.05%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "7.05%",
+      "combined_rate_max": "7.05%",
+      "combined_rate_avg": "7.05%"
+    },
+    {
+      "country": "US",
+      "state": "VA",
+      "state_name": "Virginia",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Virginia",
+          "combined_rate": "5.56%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "5.56%",
+      "combined_rate_max": "5.56%",
+      "combined_rate_avg": "5.56%"
+    },
+    {
+      "country": "US",
+      "state": "VI",
+      "state_name": "Virgin Islands",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Virgin Islands",
+          "combined_rate": "0.00%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "0.00%",
+      "combined_rate_max": "0.00%",
+      "combined_rate_avg": "0.00%"
+    },
+    {
+      "country": "US",
+      "state": "VT",
+      "state_name": "Vermont",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Vermont",
+          "combined_rate": "6.17%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.17%",
+      "combined_rate_max": "6.17%",
+      "combined_rate_avg": "6.17%"
+    },
+    {
+      "country": "US",
+      "state": "WA",
+      "state_name": "Washington",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Washington",
+          "combined_rate": "8.68%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "8.68%",
+      "combined_rate_max": "8.68%",
+      "combined_rate_avg": "8.68%"
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "state_name": "Wisconsin",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Wisconsin",
+          "combined_rate": "5.52%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "5.52%",
+      "combined_rate_max": "5.52%",
+      "combined_rate_avg": "5.52%"
+    },
+    {
+      "country": "US",
+      "state": "WV",
+      "state_name": "West Virginia",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "West Virginia",
+          "combined_rate": "6.21%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "6.21%",
+      "combined_rate_max": "6.21%",
+      "combined_rate_avg": "6.21%"
+    },
+    {
+      "country": "US",
+      "state": "WY",
+      "state_name": "Wyoming",
+      "cities": [
+        {
+          "city": "N/A",
+          "county": null,
+          "region": "Wyoming",
+          "combined_rate": "5.40%",
+          "state_rate": "0.00%",
+          "county_rate": "0.00%",
+          "city_rate": "0.00%",
+          "special_rate": "0.00%"
+        }
+      ],
+      "total_regions": 1,
+      "combined_rate_min": "5.40%",
+      "combined_rate_max": "5.40%",
+      "combined_rate_avg": "5.40%"
+    }
+  ]
+}
