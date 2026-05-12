@@ -1,4 +1,4 @@
-import type { EventType } from './events.js';
+import type { EventType } from "./events.js";
 
 export interface User {
   id: string;
@@ -34,7 +34,13 @@ export interface Message {
   createdAt: number;
 }
 
-export type MessageType = 'text' | 'image' | 'video' | 'audio' | 'file' | 'link';
+export type MessageType =
+  | "text"
+  | "image"
+  | "video"
+  | "audio"
+  | "file"
+  | "link";
 
 export interface MessageReaction {
   messageId: string;
@@ -45,7 +51,7 @@ export interface MessageReaction {
 
 export interface MediaAttachment {
   id: string;
-  type: 'image' | 'video' | 'audio' | 'file';
+  type: "image" | "video" | "audio" | "file";
   url: string;
   thumbnail?: string;
   name: string;
@@ -55,7 +61,7 @@ export interface MediaAttachment {
 
 export interface Conversation {
   id: string;
-  type: 'direct' | 'group';
+  type: "direct" | "group";
   name?: string;
   avatar?: string;
   participants: string[];
@@ -67,7 +73,14 @@ export interface Conversation {
 }
 
 export interface GroupUpdate {
-  type: 'name' | 'avatar' | 'member_added' | 'member_left' | 'member_removed' | 'admin_added' | 'admin_removed';
+  type:
+    | "name"
+    | "avatar"
+    | "member_added"
+    | "member_left"
+    | "member_removed"
+    | "admin_added"
+    | "admin_removed";
   userId: string;
   data?: Record<string, unknown>;
 }
@@ -76,7 +89,7 @@ export interface TypingPayload {
   from: string;
   to: string;
   conversationId: string;
-  state: 'started' | 'stopped';
+  state: "started" | "stopped";
 }
 
 export interface ReadPayload {
@@ -119,14 +132,19 @@ export interface WsMessage<T = unknown> {
 }
 
 export interface ChatConfig {
-  authenticate: (token: string) => Promise<User>;
+  authenticate?: (token: string) => Promise<User>;
   saveMessage: (message: Message) => Promise<Message>;
-  getMessages: (conversationId: string, user: User, limit?: number) => Promise<Message[]>;
+  getMessages: (
+    conversationId: string,
+    user: User,
+    limit?: number,
+  ) => Promise<Message[]>;
   getConversations: (userId: string) => Promise<Conversation[]>;
   getUser: (userId: string, requesterId: string) => Promise<User | null>;
   searchUsers: (query: string) => Promise<User[]>;
   searchMessages: (query: string, userId: string) => Promise<Message[]>;
   onEvent?: (type: string, payload: unknown, user: User | null) => void;
+  requireAuth?: boolean;
 }
 
 export interface ChatServer {
@@ -143,3 +161,4 @@ export interface ChatClient {
   off: (event: string, handler: (payload: unknown) => void) => void;
   disconnect: () => void;
 }
+

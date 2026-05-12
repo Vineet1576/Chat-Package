@@ -1,6 +1,6 @@
-export { createChatServer } from './server.js';
-export { createChatClient } from './client.js';
-export { EventTypes } from './events.js';
+export { createChatServer } from "./server.js";
+export { createChatClient } from "./client.js";
+export { EventTypes } from "./events.js";
 export type {
   User,
   Message,
@@ -10,5 +10,5 @@ export type {
   ChatConfig,
   ChatServer,
   ChatClient,
-} from './types.js';
-export { validateConfig, ConfigValidationError } from './validate.js';
+} from "./types.js";
+export { validateConfig, ConfigValidationError } from "./validate.js";
